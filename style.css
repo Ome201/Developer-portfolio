@@ -18,17 +18,21 @@ h2 {
 .flexible-container {
     display: flex;
     margin-bottom: 150px;
+
+
 }
 
 .half-width {
     width: 50%;
     padding-left: 2%;
+    padding-right: 7%;
 
 
 }
 
 .half-width img {
     width: 60%;
+    padding-left: 10px;
 }
 
 .link-button {
@@ -57,6 +61,7 @@ h2 {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+
 }
 
 .experience-item {
@@ -75,6 +80,10 @@ h2 {
 
 #baby-developer {
     border-top: 7px solid blue;
+}
+
+#ki {
+    margin-left: 40px;
 }
 
 footer p {
